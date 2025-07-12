@@ -111,7 +111,7 @@ document.getElementById("inquiryForm").addEventListener("submit", function (e) {
   }
 
   // Submit data to the form endpoint
-  fetch("https://submit-form.com/FXyWxF7Sh", {
+  fetch("https://submit-form.com/NSYjvkmBl", {
     method: "POST",
     headers: {
       "Content-Type": "application/json",
